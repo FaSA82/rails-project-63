@@ -1,4 +1,5 @@
 AllCops:
+  Enabled: true
   TargetRubyVersion: 2.6
 
 Style/StringLiterals:
@@ -10,5 +11,4 @@ Style/StringLiteralsInInterpolation:
   EnforcedStyle: double_quotes
 
 Layout/LineLength:
-  Enabled: true
   Max: 120
