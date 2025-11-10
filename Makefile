@@ -2,5 +2,3 @@
 
 install:
 	bundle install
-
-
