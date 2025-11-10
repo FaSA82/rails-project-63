@@ -1,3 +1,7 @@
+[![Ruby](https://github.com/FaSA82/rails-project-63/actions/workflows/main.yml/badge.svg)](https://github.com/FaSA82/rails-project-63/actions/workflows/main.yml)
+
+##
+
 # HexletCode
 
 TODO: Delete this and the text below, and describe your gem
