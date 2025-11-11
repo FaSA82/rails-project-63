@@ -1,10 +1,8 @@
 # frozen_string_literal: true
 
 require_relative "hexlet_code/version"
-
+# HexletCode provides HTML form generation functionality
 module HexletCode
   class Error < StandardError; end
-  #autoload :Tag, 'hexlet_code/tag.rb'
-  autoload :Tag, File.expand_path('hexlet_code/tag', __dir__)
+  autoload :Tag, File.expand_path("hexlet_code/tag", __dir__)
 end
-
